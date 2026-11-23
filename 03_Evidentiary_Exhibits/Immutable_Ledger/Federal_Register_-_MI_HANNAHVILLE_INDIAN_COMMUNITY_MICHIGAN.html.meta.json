@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=MI+HANNAHVILLE+INDIAN+COMMUNITY+MICHIGAN",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=MI+HANNAHVILLE+INDIAN+COMMUNITY+MICHIGAN",
+  "title": "Federal Register - MI HANNAHVILLE INDIAN COMMUNITY MICHIGAN",
+  "fetched_at": "2026-11-23T17:41:10.747750Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 312076,
+  "sha256": "451fb05e204daf6a6aa44d8bb40eb2c431f7af0aa6efac9ac63b77d94ff9564d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
